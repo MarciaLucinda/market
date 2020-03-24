@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# ![Hyperledger Market](image)
 
-You can use the [editor on GitHub](https://github.com/uracilo/market/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the Hyperledger Market project. Market is a blockchain and operation system, which helps manage blockchain networks of marketers in an efficient way.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently supported blockchain solutions:
 
-```markdown
-Syntax highlighted code block
+* [Hyperledger Fabric v1.X](https://github.com/hyperledger/fabric)
+* [Hyperledger Iroha 1.0 beta-3](https://github.com/hyperledger/iroha)
+* [Hyperledger Cello 1.0 beta-3](https://github.com/hyperledger/cello)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+See the [PSWG white paper](https://uracilo.github.io/market/whitepaper) to find out the definitions and corresponding measurement methods.  
 
-1. Numbered
-2. List
+For more information on using Market, please consult the [documentation site](https://uracilo.github.io/market/)
 
-**Bold** and _Italic_ and `Code` text
+## Install and usage
+See the [related documentation page](https://uracilo.github.io/market/install).
 
-[Link](url) and ![Image](src)
-```
+## How to contact us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you have any issues using Market that the documentation does not help you solve, please reach out to us through the following methods:
+* [Whatsapp]() Please feel free to contact us on Whatsapp Chat (instant messaging). We monitor that channel as close as possible, but even if you don't have a problem that needs resolving, why not jump on and say hi ... we'd love to hear from you about your experiences and any new features you think we should work on.
+* [Issues](https://github.com/uracilo/market/issues) Feel free to raise an issue if you are facing a Caliper related problem
 
-### Jekyll Themes
+Market interacts with multiple blockchain technologies and consequently it *might* be an issue with the underlying blockchain technology being interacted with. You can seek specific help on these technologies within the following Rocket Chat channels:
+* [Hyperledger Fabric](https://chat.hyperledger.org/channel/fabric)
+* [Hyperledger Iroha](https://chat.hyperledger.org/channel/iroha)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uracilo/market/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## How to contribute
 
-### Support or Contact
+We welcome contributions to the Market code base. Please see [Contributing](/CONTRIBUTING.md) for more information.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+Hyperledger Project source code files are made available under the Apache License, Version 2.0 (Apache-2.0), located in the [LICENSE](LICENSE) file. Hyperledger Project documentation files are made available under the Creative Commons Attribution 4.0 International License (CC-BY-4.0), available at http://creativecommons.org/licenses/by/4.0/.
