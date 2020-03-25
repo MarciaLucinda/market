@@ -31,4 +31,16 @@ body{
 .fa-5x{
 	text-align: center;
 	margin-top: 8px;
+
+}
+
+.background_black {
+	background-color: #43474e;
+	padding: 26px;
+	color: white;
+	border-radius: .3rem;
+}
+
+.col-md-2 a {
+	color:white;
 }
