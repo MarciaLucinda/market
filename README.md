@@ -1,4 +1,4 @@
-# ![Hyperledger Market](image)
+# ![Hyperledger Market](https://github.com/uracilo/market/blob/master/assets/img/HYPER_MARKET.png)
 
 
 Welcome to the Hyperledger Market project. Market is a blockchain and operation system, which helps manage blockchain networks of marketers in an efficient way.
