@@ -1,7 +1,7 @@
-# ![Hyperledger Market](https://github.com/uracilo/market/blob/master/assets/img/HYPER_MARKET.png)
+# ![Hyperledger Market]()
 
 
-Welcome to the Hyperledger Market project. Market is a blockchain and operation system, which helps manage blockchain networks of marketers in an efficient way.
+Welcome to the Market project. Market is a blockchain and operation system, which helps manage blockchain networks of marketers in an efficient way.
 
 
 Currently supported blockchain solutions:
@@ -33,4 +33,3 @@ Market interacts with multiple blockchain technologies and consequently it *migh
 We welcome contributions to the Market code base. Please see [Contributing](/CONTRIBUTING.md) for more information.
 
 ## License
-Hyperledger Project source code files are made available under the Apache License, Version 2.0 (Apache-2.0), located in the [LICENSE](LICENSE) file. Hyperledger Project documentation files are made available under the Creative Commons Attribution 4.0 International License (CC-BY-4.0), available at http://creativecommons.org/licenses/by/4.0/.
