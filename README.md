@@ -1,4 +1,4 @@
-# ![Hyperledger Market]()
+# ![ Market]()
 
 
 Welcome to the Market project. Market is a blockchain and operation system, which helps manage blockchain networks of marketers in an efficient way.
@@ -11,7 +11,7 @@ Currently supported blockchain solutions:
 * [Hyperledger Cello 1.0 beta-3](https://github.com/hyperledger/cello)
 
 
-See the [PSWG white paper](https://github.com/uracilo/market/blob/master/docs/whitepaper.pdf) to find out the definitions and corresponding measurement methods.  
+See the [PSWG white paper](https://github.com/uracilo/market/blob/master/docs/whitepaper.pdf) to find out the definitions and corresponding measurement methods.. 
 
 For more information on using Market, please consult the [documentation site](https://uracilo.github.io/market/)
 
