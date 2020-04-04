@@ -1,0 +1,15 @@
+Header
+          Empieza hoy
+          Conecta tu mercado
+Body 
+           Las 3 W 
+           Frase
+           Herramientas
+           Linea del tiempo
+           Equipo 
+           Unete
+
+Footer
+             repositorio 
+             redes sociales
+             contacto@co-market.com
